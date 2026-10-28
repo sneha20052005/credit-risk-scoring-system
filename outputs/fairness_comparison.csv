@@ -1,0 +1,4 @@
+gender,Customer_Count,Average_Predicted_Risk,Actual_Difficulty_Rate
+F,40561,36.93,6.99
+M,20940,45.39,10.17
+XNA,2,48.57,0.0
